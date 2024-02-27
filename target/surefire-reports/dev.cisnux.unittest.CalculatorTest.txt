@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: dev.cisnux.unittest.CalculatorTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 0.001 s - in dev.cisnux.unittest.CalculatorTest
